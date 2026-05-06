@@ -1,2 +1,2 @@
-# AQL
-🧠 AQL:  Aql Query Language
+# AQL 🧠 عقل
+ لغة برمجة عربية
